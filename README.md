@@ -1,1 +1,2 @@
-Shell Basics Readme echo Read Shell Basics Readme
+#!/tmp/bash
+Readme
